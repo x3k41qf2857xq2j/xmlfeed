@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  
+
+  <channel>
+    
+	
+    <title>Star Trek: Section 31 (from Darker Projects)</title>
+    
+	
+    <atom:link href="https://darkerprojects.com/feed/podcast/" rel="self" type="application/rss+xml"/>
+    
+	
+    <link>https://darkerprojects.com</link>
+    
+	
+    <description>A filtered feed containing only Star Trek: Section 31 episodes, sourced from the Darker Projects master feed.</description>
+    
+	
+    <lastBuildDate>Sun, 21 Dec 2025 12:00:48 +0000</lastBuildDate>
+    
+	
+    <language>en</language>
+    
+	
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    
+	
+    <sy:updateFrequency>1</sy:updateFrequency>
+    
+		
+    <generator>https://wordpress.org/?v=6.9</generator>
+    
+
+
+    <image>
+      
+	
+      <url>https://darkerprojects.com/wp-content/uploads/2018/03/cropped-10565268_10152595974054469_6770952868158940649_n-32x32.jpg</url>
+      
+	
+      <title>Darker Projects</title>
+      
+	
+      <link>https://darkerprojects.com</link>
+      
+	
+      <width>32</width>
+      
+	
+      <height>32</height>
+      
+
+    </image>
+     
+	
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    
+	
+    <itunes:author>DarkerProjects</itunes:author>
+    
+	
+    <itunes:explicit>true</itunes:explicit>
+    
+	
+    <itunes:image href="http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg"/>
+    
+	
+    <itunes:type>episodic</itunes:type>
+    
+	
+    <itunes:owner>
+      
+		
+      <itunes:name>DarkerProjects</itunes:name>
+      
+		
+      <itunes:email>webmaster@darkerprojects.com</itunes:email>
+      
+	
+    </itunes:owner>
+    
+	
+    <copyright>2022 Darker Projects</copyright>
+    
+	
+    <podcast:license>2022 Darker Projects</podcast:license>
+    
+	
+    <podcast:medium>podcast</podcast:medium>
+    
+	
+    <image>
+      
+		
+      <title>Darker Projects</title>
+      
+		
+      <url>http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg</url>
+      
+		
+      <link>https://darkerprojects.com</link>
+      
+	
+    </image>
+    
+	
+    <itunes:category text="Arts">
+      
+		
+      <itunes:category text="Performing Arts"/>
+      
+	
+    </itunes:category>
+    
+	
+    <rawvoice:rating>TV-MA</rawvoice:rating>
+    
+	
+    <podcast:podping usesPodping="true"/>
+    
+	
+    <podcast:guid>1c110487-f994-5890-87e9-ce20e06d2c57</podcast:guid>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 4 Ep 003:  Prime</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-4-ep-003-prime/</link>
+      
+		
+      <pubDate>Mon, 20 Dec 2010 22:40:17 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=807</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-4-ep-003-prime/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-4-ep-003-prime/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Prime Vastator has risen and will come for you all. Written by Eric Busby Featured in the cast</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0403-Section-31-Prime.mp3" length="28278402" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>19:37</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 04 EP 002: Ghost Ship</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-04-ep-002-ghost-ship/</link>
+      
+		
+      <pubDate>Thu, 21 Oct 2010 22:43:43 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=809</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-04-ep-002-ghost-ship/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-04-ep-002-ghost-ship/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Ghost Ship Written by Eric Busby Featured in the cast were: Laura Post as Captain Dalonna Mark Kalita</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0402-Section-31-Ghost-Ship.mp3" length="40278103" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>27</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 4 EP 001: Nero’s Legacy</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-4-ep-001-neros-legacy/</link>
+      
+		
+      <pubDate>Thu, 02 Sep 2010 22:46:31 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=811</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-4-ep-001-neros-legacy/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-4-ep-001-neros-legacy/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Nero’s Legacy Written by Eric Busby Featured in the cast were: Laura Post as Captain Dalonna Mark Kalita</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0401-Section-31-Neros-Legacy.mp3" length="37762770" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>31:17</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 007: Invasion Part 4: The Last Stand</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-007-invasion-part-4-the-last-stand/</link>
+      
+		
+      <pubDate>Fri, 04 May 2007 03:37:29 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=883</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-007-invasion-part-4-the-last-stand/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-007-invasion-part-4-the-last-stand/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Invasion Part 4: The Last Stand Series Final Episode Written by Eric Busby Featured in the cast were:</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0307_Section-31_Invasion_4_The-Last-Stand.mp3" length="24787865" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>25:49</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 006: Invasion Part 3: Warday</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-006-invasion-part-3-warday/</link>
+      
+		
+      <pubDate>Tue, 06 Mar 2007 03:35:19 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=880</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-006-invasion-part-3-warday/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-006-invasion-part-3-warday/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Invasion Part 3: Warday A conflict between the Borg and Daleks ignites and threatens to engulf the whole</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0306_Section-31_Invasion_3_Warday.mp3" length="24227004" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>25:14</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 005: Invasion Part 2: Doomsday Unleashed</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-005-invasion-part-2-doomsday-unleashed/</link>
+      
+		
+      <pubDate>Fri, 15 Dec 2006 03:32:59 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=878</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-005-invasion-part-2-doomsday-unleashed/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-005-invasion-part-2-doomsday-unleashed/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Invasion Part 2: Doomsday Unleashed As the invading forces advance into the galaxy, Captain Dalonna considers making a</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0305_Section-31_Invasion_2.mp3" length="29426370" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>30:39</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 004: Invasion Part 1: The Gateway</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-004-invasion-part-1-the-gateway/</link>
+      
+		
+      <pubDate>Fri, 08 Dec 2006 03:30:57 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=876</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-004-invasion-part-1-the-gateway/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-004-invasion-part-1-the-gateway/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Invasion Part 1: The Gateway When all contact is lost with the Starship Defiant and Starbase Gateway. Section</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0304_Section-31_Invasion_1.mp3" length="24557140" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>25:34</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 003: Escape from Rura Penthe, Part 3</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-003-escape-from-rura-penthe-part-3/</link>
+      
+		
+      <pubDate>Fri, 01 Dec 2006 03:28:37 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=873</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-003-escape-from-rura-penthe-part-3/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-003-escape-from-rura-penthe-part-3/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Escape from Rura Penthe, Part 3 Written by Mark Kalita Featured in the cast were: Mark Kalita as</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0303_Section-31_Escape-from-Rura-Penthe_3.mp3" length="34321610" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>35:45</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 002: Escape from Rura Penthe, Part 2</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-002-escape-from-rura-penthe-part-2/</link>
+      
+		
+      <pubDate>Wed, 08 Nov 2006 03:24:13 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=871</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-002-escape-from-rura-penthe-part-2/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-002-escape-from-rura-penthe-part-2/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Escape from Rura Penthe, Part 2 Written by Mark Kalita Featured in the cast were: Mark Kalita as</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0302_Section-31_Escape-from-Rura-Penthe_2.mp3" length="21093910" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>21:58</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 3 EP 001: Escape from Rura Penthe, Part 1</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-3-ep-001-escape-from-rura-penthe-part-1/</link>
+      
+		
+      <pubDate>Thu, 26 Oct 2006 03:19:13 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=869</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-3-ep-001-escape-from-rura-penthe-part-1/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-3-ep-001-escape-from-rura-penthe-part-1/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Escape from Rura Penthe, Part 1 Rura Penthe. The notorious penal planetoid. A harsh, cruel ball of ice</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0301_Section-31_Escape-from-Rura-Penthe_1.mp3" length="25547187" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>26:36</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 012: The Hour of Judgement Part 2</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-012-the-hour-of-judgement-part-2/</link>
+      
+		
+      <pubDate>Fri, 08 Sep 2006 03:16:41 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=867</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-012-the-hour-of-judgement-part-2/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-012-the-hour-of-judgement-part-2/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>The Hour of Judgement Part 2 The final push to end the Destroyer’s reign of terror has come…..</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0212_Section31-TheHourOfJudgement2.mp3" length="35833940" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>24:53</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 011: The Hour of Judgement Part 1</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-011-the-hour-of-judgement-part-1/</link>
+      
+		
+      <pubDate>Wed, 16 Aug 2006 03:14:02 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=865</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-011-the-hour-of-judgement-part-1/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-011-the-hour-of-judgement-part-1/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>The Hour of Judgement Part 1 The battle lines have been drawn. The hour of judgment has come. </description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0211_Section31-TheHourOfJudgement1.mp3" length="26734945" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>18:33</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 010: Korg</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-010-korg/</link>
+      
+		
+      <pubDate>Fri, 24 Mar 2006 03:08:42 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=863</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-010-korg/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-010-korg/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Korg With the fate of the galaxy hanging in the balance, Korg must come to terms with an</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0210_Section31-Korg.mp3" length="21671463" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>22:46</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 009:  A God By Any Other Name</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-009-a-god-by-any-other-name/</link>
+      
+		
+      <pubDate>Mon, 13 Mar 2006 03:06:30 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=861</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-009-a-god-by-any-other-name/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-009-a-god-by-any-other-name/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>A God by Any Other Name Bishop reveals the truth about what happened to Mak. But just what</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0209_Section31-AGodByAnyOtherName.mp3" length="19545997" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>20:21</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 008:  Shattered Dominion</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-008-shattered-dominion/</link>
+      
+		
+      <pubDate>Thu, 23 Feb 2006 03:04:22 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=859</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-008-shattered-dominion/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-008-shattered-dominion/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Shattered Dominion Captain Dallona and the crew of the Nosferatu travel to the Gamma Quadrant to discover just</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0208_Section31-ShatteredDominion.mp3" length="21260187" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>22:08</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 007:  Reflections from the Gulf</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-007-reflections-from-the-gulf/</link>
+      
+		
+      <pubDate>Mon, 16 Jan 2006 03:01:46 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=857</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-007-reflections-from-the-gulf/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-007-reflections-from-the-gulf/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Reflections from the Gulf New alliances. New mission. And the fate of our galaxy lies in one woman’s</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0207_Section31-TheGulf.mp3" length="21771834" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>22:40</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 006: Fallout</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-006-fallout/</link>
+      
+		
+      <pubDate>Sun, 25 Dec 2005 02:59:47 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=855</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-006-fallout/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-006-fallout/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Fallout In the aftermath of the storm … Everything changes. Written by Eric Busby Featured in the cast</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0206_Section31-Fallout.mp3" length="20001352" type="audio/mpeg"/>
+      
+		
+      <itunes:author>Eric Busby</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>20:50</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 005:  Storm Break</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-005-storm-break/</link>
+      
+		
+      <pubDate>Fri, 25 Nov 2005 02:57:01 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=852</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-005-storm-break/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-005-storm-break/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Storm Break No escape…. It comes… It comes and there is no escape. You are already dead… It</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0205_Section31-StormBreak.mp3" length="24128298" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>25:07</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 004:  Storm Warning</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-004-storm-warning/</link>
+      
+		
+      <pubDate>Tue, 25 Oct 2005 02:54:33 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=850</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-004-storm-warning/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-004-storm-warning/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Storm Warning Equity Corps holds the crew of the Nosferatu captive. Meanwhile,  one of the crew makes a</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0204_Section31-StormWarning.mp3" length="21131093" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>22:00</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 003: The Gathering Storm</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-003-the-gathering-storm/</link>
+      
+		
+      <pubDate>Sun, 25 Sep 2005 02:50:28 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=846</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-003-the-gathering-storm/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-003-the-gathering-storm/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>The Gathering Storm Acts of terrorism begin to destabilize the Federation. Meanwhile, the daughter of Kahless has been</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0203_Section31-TheGatheringStorm.mp3" length="21630142" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>22:31</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 002: Absent Friends</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-002-absent-friends/</link>
+      
+		
+      <pubDate>Thu, 25 Aug 2005 02:48:01 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=844</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-002-absent-friends/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-002-absent-friends/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>In the shadow of death, the crew comes together to mourn the loss of one of their own.</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0202_Section31-AbsentFriends.mp3" length="21943606" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>22:51</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 2 EP 001: Dark Alliance</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-2-ep-001-dark-alliance/</link>
+      
+		
+      <pubDate>Sat, 23 Jul 2005 02:45:08 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=842</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-2-ep-001-dark-alliance/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-2-ep-001-dark-alliance/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Dark Alliance In the wake of The Dominion war, and attacks from the Tholians and the Borg. The</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0201_Section31-DarkAlliance.mp3" length="26839581" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>27:57</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 014: Knowledge is Power</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-014-knowledge-is-power/</link>
+      
+		
+      <pubDate>Sat, 25 Jun 2005 02:42:27 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=840</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-014-knowledge-is-power/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-014-knowledge-is-power/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Knowledge is Power Agents from the Tal Shiar plot to attack the Klingon High counsel unless Section 31</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0110_Section31-KnowledgeIsPower.mp3" length="24061944" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>25:04</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 013: Distant Shores</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-013-distant-shores/</link>
+      
+		
+      <pubDate>Mon, 13 Jun 2005 02:39:30 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=838</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-013-distant-shores/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-013-distant-shores/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Distant Shores After a close encounter with a black hole, the crew of the starship Nosferatu find themselves</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0109_Section31-DistantShores.mp3" length="19147017" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>19:56</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 012:  In His Name</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-012-in-his-name/</link>
+      
+		
+      <pubDate>Mon, 06 Jun 2005 02:35:10 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=835</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-012-in-his-name/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-012-in-his-name/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>In His Name Long ago, the Federation starship USS Defiant passed through a tear in space and fell</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0108_Section31-InHisName.mp3" length="18760007" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>19:32</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 011: Harbinger</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-011-harbinger/</link>
+      
+		
+      <pubDate>Wed, 25 May 2005 23:18:21 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=833</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-011-harbinger/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-011-harbinger/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Harbinger A mysterious telepathic signal brings death and destruction to all life in Alpha Quadrant. Captain Dalonna and</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0107_Section31-Harbinger.mp3" length="26522761" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>27:37</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 010: Bold Venture Part 2</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-010-bold-venture-part-2/</link>
+      
+		
+      <pubDate>Thu, 12 May 2005 23:15:50 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=831</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-010-bold-venture-part-2/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-010-bold-venture-part-2/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Bold Venture, Part 2 As captain Dalonna’s life hangs in the balance. Starfleet learns the existence of Section</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0106-2_Section31-BoldVenture2.mp3" length="15505727" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>16:09</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 Season 01 EP 009: Bold Venture Part 1</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-01-ep-009-bold-venture-part-1/</link>
+      
+		
+      <pubDate>Sun, 01 May 2005 23:13:09 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=829</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-01-ep-009-bold-venture-part-1/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-01-ep-009-bold-venture-part-1/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Bold Venture Part 1 As captain Dalonna’s life hangs in the balance. Starfleet learns the existence of Section</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0106-1_Section31-BoldVenture1.mp3" length="20224903" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>21:04</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 008: The Awakening</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-008-the-awakening/</link>
+      
+		
+      <pubDate>Sun, 24 Apr 2005 23:10:50 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=827</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-008-the-awakening/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-008-the-awakening/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>The Awakening Behind the Tholian Blockade, a mysterious ship from Mak’s homeworld is discovered. But what effect will</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0105_Section31-TheAwakening.mp3" length="27194824" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>28:19</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 007: Crimson: The Key</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-007-crimson-the-key/</link>
+      
+		
+      <pubDate>Tue, 12 Apr 2005 23:08:25 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=825</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-007-crimson-the-key/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-007-crimson-the-key/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Crimson: The Key A mysterious object may hold the secret to Takila Mak’s forgotten past.  Meanwhile, the Observer</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0104_Section31-CrimsonTheKey.mp3" length="25206591" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>26:15</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 006: The Sum of One’s Memories</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-006-the-sum-of-ones-memories/</link>
+      
+		
+      <pubDate>Fri, 01 Apr 2005 23:05:32 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=823</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-006-the-sum-of-ones-memories/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-006-the-sum-of-ones-memories/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>The Sum of One’s Memories The crew of the Nosferatu comes up against the Federation’s most lethal enemy.</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0103_Section31-TheSumOfOnesMemories.mp3" length="30961280" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>32:15</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 005: Shades of Grey</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-005-shades-of-grey/</link>
+      
+		
+      <pubDate>Thu, 24 Mar 2005 23:02:32 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=821</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-005-shades-of-grey/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-005-shades-of-grey/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Shades of Grey When the Cardassians capture a Grey warship, it’s up to Section 31 to make sure</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0102_Section31-ShadesOfGrey.mp3" length="27721458" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>28:52</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 004: Altered Reflection Part 4</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-004-altered-reflection-part-4/</link>
+      
+		
+      <pubDate>Sat, 12 Mar 2005 22:59:30 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=819</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-004-altered-reflection-part-4/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-004-altered-reflection-part-4/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Altered Reflection Part 4 An observer studies a divergent timeline, in which good people become murderous tyrants, people</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0101-3b_Section31-AlteredReflection3b.mp3" length="13548012" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>14:06</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 003 – Altered Reflection Part 3</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-003-altered-reflection-part-3/</link>
+      
+		
+      <pubDate>Sat, 05 Mar 2005 22:56:49 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=817</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-003-altered-reflection-part-3/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-003-altered-reflection-part-3/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Altered Reflection Part 3 An observer studies a divergent timeline, in which good people become murderous tyrants, people</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0101-3a_Section31-AlteredReflection3a.mp3" length="21044110" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>21:55</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 002: Altered Reflection Part 2</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-002-altered-reflection-part-2/</link>
+      
+		
+      <pubDate>Tue, 15 Feb 2005 22:53:00 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=815</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-002-altered-reflection-part-2/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-002-altered-reflection-part-2/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Altered Reflection Part 2 An observer studies a divergent timeline, in which good people become murderous tyrants, people</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0101-2_Section31-AlteredReflection2.mp3" length="24029173" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>25:01</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – Season 1 EP 001:  Altered Reflection Part 1</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-season-1-ep-001-altered-reflection-part-1/</link>
+      
+		
+      <pubDate>Wed, 05 Jan 2005 22:49:54 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=813</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-season-1-ep-001-altered-reflection-part-1/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-season-1-ep-001-altered-reflection-part-1/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Altered Reflection – Part 1 An observer studies a divergent timeline, in which good people become murderous tyrants,</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/0101-1_Section31-AlteredReflection1.mp3" length="26559510" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>27:39</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – EP 000 : Opening</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-ep-000-opening/</link>
+      
+		
+      <pubDate>Sun, 02 Jan 2005 22:37:08 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=804</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-ep-000-opening/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-ep-000-opening/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Star Trek: The Section 31 Files Space is dark. Let’s face it. The universe of shiny, well-groomed Starfleet</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/00_Section31-Opening.mp3" length="982634" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>1:01</itunes:duration>
+      
+	
+    </item>
+    
+	
+    <item>
+      
+		
+      <title>ST 31 – EP 000 : Welcome</title>
+      
+		
+      <link>https://darkerprojects.com/section31/st-31-ep-000-welcome/</link>
+      
+		
+      <pubDate>Sat, 01 Jan 2005 22:22:27 +0000</pubDate>
+      
+		
+      <guid isPermaLink="false">http://darkerprojects.com/?p=801</guid>
+      
+		
+      <comments>https://darkerprojects.com/section31/st-31-ep-000-welcome/#respond</comments>
+      
+		
+      <wfw:commentRss>https://darkerprojects.com/section31/st-31-ep-000-welcome/feed/</wfw:commentRss>
+      
+		
+      <slash:comments>0</slash:comments>
+      
+		
+      <category>Star Trek: Section 31</category>
+      
+		
+      <description>Star Trek: The Section 31 Files Space is dark. Let’s face it. The universe of shiny, well-groomed Starfleet</description>
+      
+		
+      <enclosure url="http://darkerprojects.dreamhosters.com/audio/section31/00_Section31-Welcome.mp3" length="1052723" type="audio/mpeg"/>
+      
+		
+      <itunes:author>DarkerProjects</itunes:author>
+      
+		
+      <itunes:episodeType>full</itunes:episodeType>
+      
+		
+      <itunes:explicit>true</itunes:explicit>
+      
+		
+      <itunes:duration>1:05</itunes:duration>
+      
+	
+    </item>
+    
+
+  </channel>
+  
+
+</rss>

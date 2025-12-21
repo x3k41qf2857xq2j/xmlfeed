@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+<channel>
+	<title>Star Trek: Lost Frontiers (Darker Projects subset feed)</title>
+	<atom:link href="https://darkerprojects.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://darkerprojects.com</link>
+	<description>Filtered feed containing only Star Trek: Lost Frontiers episodes from the Darker Projects master feed.</description>
+	<lastBuildDate>Sun, 21 Dec 2025 11:47:21 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.9</generator>
+
+<image>
+	<url>https://darkerprojects.com/wp-content/uploads/2018/03/cropped-10565268_10152595974054469_6770952868158940649_n-32x32.jpg</url>
+	<title>Darker Projects</title>
+	<link>https://darkerprojects.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:author>DarkerProjects</itunes:author>
+	<itunes:explicit>true</itunes:explicit>
+	<itunes:image href="http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>DarkerProjects</itunes:name>
+		<itunes:email>webmaster@darkerprojects.com</itunes:email>
+	</itunes:owner>
+	<copyright>2022 Darker Projects</copyright>
+	<podcast:license>2022 Darker Projects</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<image>
+		<title>Darker Projects</title>
+		<url>http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg</url>
+		<link>https://darkerprojects.com</link>
+	</image>
+	<itunes:category text="Arts">
+		<itunes:category text="Performing Arts" />
+	</itunes:category>
+	<rawvoice:rating>TV-MA</rawvoice:rating>
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>1c110487-f994-5890-87e9-ce20e06d2c57</podcast:guid>
+	<item>
+		<title>ST: LF: Season 1 EP 20: Philanthropy</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-20-philanthropy/</link>
+		<pubDate>Thu, 31 Dec 2020 05:01:00 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=1693</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-20-philanthropy/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-20-philanthropy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>ST: LF: Season 1 Episode 20:  Philanthropy The Enterprise travels to Feringinar at the behest of Grand Nagus</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF205-Philanthropy.mp3" length="79114923" type="audio/mpeg" />
+		<itunes:author>George Samuels</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>54:53</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF: Season 1 EP 019:  Cat’s Claw</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-019-cats-claw/</link>
+		<pubDate>Thu, 01 Jun 2017 01:09:24 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=1156</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-019-cats-claw/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-019-cats-claw/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>This is Mark Bruzee, I play the part of Captain Rupert Trask on Star Trek: The Lost Frontier.</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF204-CatsClaw.mp3" length="137762507" type="audio/mpeg" />
+		<itunes:author>C. Glen Williams</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>57:24</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF: Season 1 EP 018:  Cosa Nostra</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-018-cosa-nostra/</link>
+		<pubDate>Sat, 15 Aug 2015 04:00:10 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=1010</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-018-cosa-nostra/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-018-cosa-nostra/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Cosa Nostra The Enterprise is dispatched to Orion in order to negotiate new trade agreements with the secretive</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF203-Cosa-Nostra.mp3" length="78676462" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>54:37</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 017: The Rift</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-017-the-rift/</link>
+		<pubDate>Tue, 31 Jan 2012 16:34:22 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=933</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-017-the-rift/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-017-the-rift/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>The Rift The appearance of an old-style Starfleet shuttlecraft leads Trask and his crew a hundred years into</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0202-TheRift-320.mp3" length="137255327" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>57:11</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 016: Caduceus</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-016-caduceus/</link>
+		<pubDate>Tue, 02 Nov 2010 16:27:17 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=928</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-016-caduceus/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-016-caduceus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description> Caduceus Enterprise undergoes a refit in the wake of the events since her launch. A new Chief Medical</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0201-Caduceus.mp3" length="99095952" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>1:08:41</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 015: The Valiant Part 2</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-015-the-valiant-part-2/</link>
+		<pubDate>Tue, 22 Sep 2009 16:25:07 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=925</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-015-the-valiant-part-2/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-015-the-valiant-part-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>The Valiant Part 2 Enterprise’s mission is interrupted by a transmission from an old friend bearing news of</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0115_The_Valiant_part_2.mp3" length="35392243" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>24:34</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 014: The Valiant Part 1</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-014-the-valiant-part-1/</link>
+		<pubDate>Sat, 22 Aug 2009 16:18:44 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=922</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-014-the-valiant-part-1/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-014-the-valiant-part-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description> The Valiant Part 1 Enterprise’s mission is interrupted by a transmission from an old friend bearing news of</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0114_The_Valiant_Part_1.mp3" length="30503238" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>21:03</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 013: Power and Dominion Part 2</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-013-power-and-dominion-part-2/</link>
+		<pubDate>Tue, 28 Jul 2009 16:15:51 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=920</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-013-power-and-dominion-part-2/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-013-power-and-dominion-part-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Power and Dominion Part 2 As the Elder’s power grows, only Enterprise and a handful of loyal Dominion</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0113_Power-and-Dominion-2.mp3" length="42605671" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>29:27</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 012: Power and Dominion Part 1</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-012-power-and-dominion-part-1/</link>
+		<pubDate>Mon, 08 Dec 2008 16:13:05 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=918</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-012-power-and-dominion-part-1/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-012-power-and-dominion-part-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Power and Dominion Part 1 The Enterprise journeys to the Gamma Quadrant to learn what has become of</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0112_Power-and-Dominion-1.mp3" length="39970326" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>27:38</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 011: A Prophet Without Honor</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-011-a-prophet-without-honor/</link>
+		<pubDate>Wed, 05 Nov 2008 16:10:07 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=915</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-011-a-prophet-without-honor/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-011-a-prophet-without-honor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>A Prophet Without Honor The Enterprise is dispatched to the Bajoran system to discover the fate of Deep</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0111_A-Prophet-Without-Honor.mp3" length="55711501" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>1:03:54</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 010: Of Q and Women</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-010-of-q-and-women/</link>
+		<pubDate>Fri, 30 May 2008 15:13:50 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=912</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-010-of-q-and-women/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-010-of-q-and-women/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description> Of Q and Women It’s anything but an ordinary day when Kate Niles gets an unwanted visit from</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0110_OfQAndWomen.mp3" length="34008773" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>23:30</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 009: Movement in Shadows</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-009-movement-in-shadows/</link>
+		<pubDate>Thu, 01 May 2008 15:10:43 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=910</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-009-movement-in-shadows/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-009-movement-in-shadows/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Movement in Shadows As the Enterprise prepares for departure. The crew loses one of their own while Commander</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0109_Movement-in-Shadows.mp3" length="29086655" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>20:05</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 008: A Legend Falls</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-008-a-legend-falls/</link>
+		<pubDate>Wed, 26 Mar 2008 15:07:42 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=908</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-008-a-legend-falls/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-008-a-legend-falls/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>A Legend Falls As the Enterprise undergoes repairs. One of the crew is murdered by a deadly assassin.</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0108_ALegendFalls.mp3" length="18711513" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>19</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 007: Resistance</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-007-resistance/</link>
+		<pubDate>Tue, 01 Jan 2008 15:04:46 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=906</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-007-resistance/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-007-resistance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Resistance We are the Borg. Lower your shields and surrender your ships. We will add your biological and</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0107_Resistance.mp3" length="28332108" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>29:21</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 006: Remnant of the Klingons</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-006-remnant-of-the-klingons/</link>
+		<pubDate>Sat, 01 Dec 2007 15:01:18 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=904</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-006-remnant-of-the-klingons/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-006-remnant-of-the-klingons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Remnant of the Klingons The Enterprise discovered a threat that could annihilate not only the last of the</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0106_Remnant.mp3" length="22874800" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>23:40</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 005: The Fallen Empire</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-005-the-fallen-empire/</link>
+		<pubDate>Thu, 01 Nov 2007 14:57:55 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=902</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-005-the-fallen-empire/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-005-the-fallen-empire/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>The Fallen Empire Starfleet Command sends the Enterprise to investigate what has become of the Klingon Empire after</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0105_FallenEmpire.mp3" length="23748100" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>24:35</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 004: Escape from Korsava 4</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-004-escape-from-korsava-4/</link>
+		<pubDate>Mon, 01 Oct 2007 14:36:18 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=897</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-004-escape-from-korsava-4/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-004-escape-from-korsava-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Escape from Korsava 4 Trapped on the surface of prison world. The Enterprise away team make a desperate</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0104_Escape.mp3" length="26932112" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>27:54</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 003: Prisoner</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-003-prisoner/</link>
+		<pubDate>Sat, 01 Sep 2007 14:42:48 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=899</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-003-prisoner/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-003-prisoner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Prisoner The Enterprise responds to a distress signal and is surprised to discover it may have Romulan origins.</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0103_Prisoner.mp3" length="36155623" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>37:30</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 002: A Star To Steer Her By…</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-002-a-star-to-steer-her-by/</link>
+		<pubDate>Thu, 02 Aug 2007 03:57:56 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=895</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-002-a-star-to-steer-her-by/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-002-a-star-to-steer-her-by/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>A Star to Steer Her By… The safety of the Yorktown is at risk as the Assassin Guild’s</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0102_Star.mp3" length="25895181" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>26:49</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF Season 1 EP 001: Hope</title>
+		<link>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-001-hope/</link>
+		<pubDate>Mon, 02 Jul 2007 03:47:19 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=892</guid>
+		<comments>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-001-hope/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/st-lf-season-1-ep-001-hope/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Hope It’s the dawn of the 25th century….. And everything has changed. Written by Eric Busby. Featured in</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0101_Hope.mp3" length="26156378" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>27:05</itunes:duration>
+	</item>
+	<item>
+		<title>ST: LF – Intro</title>
+		<link>https://darkerprojects.com/lostfrontier/star-trek-lost-frontier-intro/</link>
+		<pubDate>Mon, 02 Jul 2007 03:40:31 +0000</pubDate>
+		<guid isPermaLink="false">http://darkerprojects.com/?p=885</guid>
+		<comments>https://darkerprojects.com/lostfrontier/star-trek-lost-frontier-intro/#respond</comments>
+		<wfw:commentRss>https://darkerprojects.com/lostfrontier/star-trek-lost-frontier-intro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>Star Trek: Lost Frontier</category>
+		<description>Star Trek:  Lost Frontier It’s the dawn of the 25th century … and everything has changed. Star Trek:</description>
+		<enclosure url="http://darkerprojects.dreamhosters.com/audio/lostfrontier/LF0100_LostFrontier-Welcome.mp3" length="1134986" type="audio/mpeg" />
+		<itunes:author>DarkerProjects</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:duration>41</itunes:duration>
+	</item>
+	</channel>
+</rss>
