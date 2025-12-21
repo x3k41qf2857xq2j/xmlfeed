@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
-  
-
-  <channel>
-    
-	
-    <title>Star Trek: Section 31 (from Darker Projects)</title>
+<channel>
+    <title>Star Trek: Section 31</title>
     
 	
     <atom:link href="https://darkerprojects.com/feed/podcast/" rel="self" type="application/rss+xml"/>
@@ -14,7 +10,13 @@
     <link>https://darkerprojects.com</link>
     
 	
-    <description>A filtered feed containing only Star Trek: Section 31 episodes, sourced from the Darker Projects master feed.</description>
+    <description>Space is dark. Let’s face it.
+
+The universe of shiny, well-groomed Starfleet officers and the pristine starships of the United Federation of Planets where the Prime Directive rules and hopes for galactic unity of all species is an ongoing quest is reinterpreted in our vision of the reality of the Star Trek Universe. It’s not all “let’s be friends with our alien brethren”. Here the Federation has a dark underbelly and the daring crew of the Nosferatu boldly goes where Starfleet fears to tread.
+
+These are desperate times.
+We are the desperate measure.
+	</description>
     
 	
     <lastBuildDate>Sun, 21 Dec 2025 12:00:48 +0000</lastBuildDate>
@@ -63,7 +65,7 @@
     <itunes:explicit>true</itunes:explicit>
     
 	
-    <itunes:image href="http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg"/>
+    <itunes:image href="https://darkerprojects.com/wp-content/uploads/2020/10/startrek-s31-300x300.jpg"/>
     
 	
     <itunes:type>episodic</itunes:type>
@@ -96,7 +98,7 @@
       <title>Darker Projects</title>
       
 		
-      <url>http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg</url>
+      <url>https://darkerprojects.com/wp-content/uploads/2020/10/startrek-s31-300x300.jpg</url>
       
 		
       <link>https://darkerprojects.com</link>
