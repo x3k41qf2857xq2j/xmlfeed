@@ -1,10 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
 <channel>
-	<title>Star Trek: Lost Frontiers (Darker Projects subset feed)</title>
+	<title>Star Trek: Lost Frontiers</title>
 	<atom:link href="https://darkerprojects.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://darkerprojects.com</link>
-	<description>Filtered feed containing only Star Trek: Lost Frontiers episodes from the Darker Projects master feed.</description>
+	<description>
+		It’s the dawn of the 25th century …
+		and everything has changed.
+		
+		Star Trek: Lost Frontier is a look at a dark time in the future of Star Trek. It is the dawn of the 25th century and the galaxy is coming out of a period of great war. The story of Lost Frontier focuses on the crew of the new Enterprise F as they go forth to unite the lost worlds of the Federation.
+		</description>
 	<lastBuildDate>Sun, 21 Dec 2025 11:47:21 +0000</lastBuildDate>
 	<language>en</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -21,7 +26,7 @@
 	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 	<itunes:author>DarkerProjects</itunes:author>
 	<itunes:explicit>true</itunes:explicit>
-	<itunes:image href="http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg" />
+	<itunes:image href="https://darkerprojects.com/wp-content/uploads/2015/05/LostFrontier-Logo-300x300.jpg" />
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
 		<itunes:name>DarkerProjects</itunes:name>
@@ -32,7 +37,7 @@
 	<podcast:medium>podcast</podcast:medium>
 	<image>
 		<title>Darker Projects</title>
-		<url>http://darkerprojects.com/wp-content/uploads/powerpress/Darker_Projects_Banner2.jpg</url>
+		<url>https://darkerprojects.com/wp-content/uploads/2015/05/LostFrontier-Logo-300x300.jpg</url>
 		<link>https://darkerprojects.com</link>
 	</image>
 	<itunes:category text="Arts">
