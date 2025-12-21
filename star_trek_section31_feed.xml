@@ -1,6 +1,6 @@
-Star Trek: Section 31<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
-<channel>
+  <channel>
     <title>Star Trek: Section 31</title>
     <atom:link href="https://darkerprojects.com/feed/podcast/" rel="self" type="application/rss+xml"/>
     <link>https://darkerprojects.com</link>
@@ -12,25 +12,16 @@ These are desperate times.
 We are the desperate measure.</description>
     <lastBuildDate>Sun, 21 Dec 2025 12:00:48 +0000</lastBuildDate>
     <language>en</language>
-    
-	
     <sy:updatePeriod>hourly</sy:updatePeriod>
-    
-	
     <sy:updateFrequency>1</sy:updateFrequency>
-    
-		
     <generator>https://wordpress.org/?v=6.9</generator>
-    
-
-
     <image>
       
 	
       <url>https://darkerprojects.com/wp-content/uploads/2020/10/startrek-s31-300x300.jpg</url>
       
 	
-      <title>Star Trek Section 31</title>
+      <title>Darker Projects</title>
       
 	
       <link>https://darkerprojects.com</link>
@@ -84,7 +75,7 @@ We are the desperate measure.</description>
     <image>
       
 		
-      <title>Star Trek Section 31</title>
+      <title>Darker Projects</title>
       
 		
       <url>https://darkerprojects.com/wp-content/uploads/2020/10/startrek-s31-300x300.jpg</url>
