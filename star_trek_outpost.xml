@@ -6,10 +6,7 @@ All content remains © Giant Gnome Productions.
 This feed is for private use only and not intended for public redistribution.
 -->
 
-<rss version="2.0"
-xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:podcast="https://podcastindex.org/namespace/1.0"
-xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
 <atom:link href="https://raw.githubusercontent.com/x3k41qf2857xq2j/xmlfeed/main/star_trek_outpost.xml rel="self" type="application/rss+xml" />
@@ -100,4 +97,3 @@ The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">S
 </item>
 </channel>
 </rss>
-
