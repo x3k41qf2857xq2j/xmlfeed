@@ -7,7 +7,7 @@ This feed is for private use only and not intended for public redistribution.
 -->
 
 <rss version="2.0"
-xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:podcast="https://podcastindex.org/namespace/1.0"
 xmlns:atom="http://www.w3.org/2005/Atom">
 
@@ -100,3 +100,4 @@ The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">S
 </item>
 </channel>
 </rss>
+
