@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <!--
 This feed is a personal archival project. 
 All content remains © Giant Gnome Productions.
 This feed is for private use only and not intended for public redistribution.
 -->
-
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
 <title>Outpost: A Star Trek Fan Production</title>
@@ -99,6 +98,7 @@ The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">S
 </channel>
 
 </rss>
+
 
 
 
