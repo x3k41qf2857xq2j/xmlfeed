@@ -11,12 +11,14 @@ This feed is for private use only and not intended for public redistribution.
 <channel>
 <title>Outpost: A Star Trek Fan Production</title>
 <link>https://giantgnome.com/category/startrekoutpost_podcast/</link>
-<description><![CDATA[
-Star Trek Audio Drama from Giant Gnome Productions.<br><br>
+<description>
+Star Trek Audio Drama from Giant Gnome Productions.
+  
 Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br><br>
+
 "In the darkest reaches of the United Federation of Planets, an isolated station stands sentinel over a neglected frontier. Commissioned long ago with high hopes, its promise is now all but forgotten; a lonely outpost serving as the gateway to the vast expanse beyond, where discovery… and adventure… await."<br>
 - Lt. Commander Gregory Torkelson
-]]></description>
+</description>
 <lastBuildDate>Thu, 16 Jun 2022 02:34:04 +0000</lastBuildDate>
 <language>en-US</language>
 <itunes:author>Giant Gnome Productions</itunes:author>
@@ -91,4 +93,5 @@ The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">S
 <itunes:image href="https://giantgnome.com/wp-content/uploads/2009/04/outpost-cover-11.jpg"/>
 </item>
 </channel>
+
 </rss>
