@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <!--
 This feed is a personal archival project. 
 All content remains © Giant Gnome Productions.
 This feed is for private use only and not intended for public redistribution.
 -->
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
 <title>Outpost: A Star Trek Fan Production</title>
@@ -28,7 +29,7 @@ Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet resear
 <itunes:category text="Fiction">
 <itunes:category text="Science Fiction"/>
 </itunes:category>
-<itunes:category text="TV & Film"/>
+<itunes:category text="TV &amp; Film"/>
 <itunes:image href="https://giantgnome.com/wp-content/uploads/powerpress/OutpostPodcastImage.jpg"/>
 <!-- T:\Podcasts\Images\Star Trek Outpost\OutpostPodcastImage.jpg -->
 <copyright>© 2009–2024 Giant Gnome Productions. All rights reserved.</copyright>
@@ -51,7 +52,7 @@ Release Date: April 5, 2009<br /><br />
 Episode 1 - What Could Be So Bad?<br /><br />
 Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
 
-<strong>Cast & Crew</strong><br />
+<strong>Cast &amp; Crew</strong><br />
 Robert Pepper as <em>Lt. Commander Greg Torkelson</em><br />
 Katie Gomez as <em>Lt. Renova Exler</em><br />
 Eleiece Krawiec as <em>Dr. Rachel Winston</em><br />
