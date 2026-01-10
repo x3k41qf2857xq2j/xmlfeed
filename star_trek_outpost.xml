@@ -14,7 +14,7 @@ This feed is for private use only and not intended for public redistribution.
 <description>
 Star Trek Audio Drama from Giant Gnome Productions.
  
-Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br><br>
+ Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br><br>
  
 "In the darkest reaches of the United Federation of Planets, an isolated station stands sentinel over a neglected frontier. Commissioned long ago with high hopes, its promise is now all but forgotten; a lonely outpost serving as the gateway to the vast expanse beyond, where discovery… and adventure… await."<br>
 - Lt. Commander Gregory Torkelson
@@ -47,7 +47,7 @@ Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet resear
 <item>
 <title>Star Trek: Outpost – Episode 1 – What Could Be So Bad?</title>
 
-<description><![CDATA[
+<description>
 Giant Gnome Productions presents …<br>
 Star Trek: Outpost – Episode 1 – What Could Be So Bad?<br>
 Release Date: April 5, 2009<br><br>
@@ -81,7 +81,7 @@ Audio Engineer: <em>Tony Raymond</em><br>
 Announcer: <em>Paul Lavelle</em><br><br>
 
 The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">Star Trek: Outpost - Episode 1 - What Could Be So Bad?</a> appeared first on <a href="https://giantgnome.com">Giant Gnome Productions</a>.
-]]></description>
+</description>
 
 <enclosure url="https://media.blubrry.com/gnpshows/p/www.giantgnome.com/wp-content/uploads/2009/07/outpost1.mp3" length="28743255" type="audio/mpeg"/>
 <pubDate>Sun, 05 Apr 2009 07:01:42 +0000</pubDate>
@@ -95,4 +95,5 @@ The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">S
 </channel>
 
 </rss>
+
 
